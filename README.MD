@@ -47,4 +47,5 @@ Para compilar el código Java, asegúrate de tener instalado el JDK (Java Develo
 
 
 javac Graph.java
+java -cp bin pr2.Graph
 
